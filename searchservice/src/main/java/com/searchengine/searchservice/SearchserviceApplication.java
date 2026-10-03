@@ -1,13 +1,13 @@
-package com.searchengine.playground;
+package com.searchengine.searchservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PlaygroundApplication {
+public class SearchserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PlaygroundApplication.class, args);
+		SpringApplication.run(SearchserviceApplication.class, args);
 	}
 
 }
